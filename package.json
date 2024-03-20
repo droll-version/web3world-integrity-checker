@@ -1,0 +1,26 @@
+{
+  "name": "web3world-integrity-checker",
+  "version": "1.0.0",
+  "description": "Check and validate Web3 integrity with advanced checking and monitoring capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/droll-version/web3world-integrity-checker"
+  },
+  "author": "droll-version",
+  "license": "MIT",
+  "dependencies": {
+    "web3world-integrity": "1.0.0",
+    "web3world-integrity-checker": "1.0.0",
+    "underscore": "1.0.0",
+    "enzyme": "1.0.0",
+    "multer": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "nodemon": "1.0.0",
+    "express": "1.0.0",
+    "helmet": "1.0.0"
+  }
+}
